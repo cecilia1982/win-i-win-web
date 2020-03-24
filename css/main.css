@@ -2627,7 +2627,7 @@ h6 {
     padding: 0px;
     text-decoration: none;
     display: inline-block;
-    color: #222222;
+    color: #ffffff;
     font-weight: 500;
     font-size: 16px;
     text-transform: capitalize;
@@ -2813,7 +2813,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .home-banner-area {
-    background: url(../img/bg-02.jpg) center;
+    background: url(../img/banner-02.jpg) center;
     background-size: cover;
 }
 
@@ -2824,7 +2824,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-    background: #90acd1;
+    background: url(../img/banner-02.jpg) center;
+    background-size: cover;
 }
 
 .banner-content {
@@ -2858,7 +2859,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content .me {
-    background: #0000FF;
+    background: #3953a4;
     padding: 18px;
     display: inline-block;
     color: #fff;
@@ -2876,7 +2877,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     height: 0;
     border-left: 26px solid transparent;
     border-right: 0px solid transparent;
-    border-top: 24px solid #0000FF;
+    border-top: 24px solid #3953a4;
 }
 
 .banner-content .designation {
@@ -3429,6 +3430,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 .contact-area {
     background: #e45447;
 }
+
+
 
 @media (max-width: 1024px) {
     .contact-area .row.mt-80 {
